@@ -33,8 +33,3 @@ Go to the project directory
 ```bash
     php artisan storage:link
 ```
-
-#### Login
-
--   email = admin@admin.com
--   password = 123
